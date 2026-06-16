@@ -10,8 +10,6 @@ Automated trading on [Polymarket](https://polymarket.com) — sports, Bitcoin sh
 
 https://github.com/user-attachments/assets/b20344f3-c8dd-4438-82b9-abb242436aa4
 
-<video src="https://github.com/user-attachments/assets/b20344f3-c8dd-4438-82b9-abb242436aa4" controls width="100%"></video>
-
 > Actual PnL over time — entries, exits, and cumulative returns across active strategies.
 
 ---
