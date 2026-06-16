@@ -1,17 +1,33 @@
 # Polymarket Trading Bot
 
-Automated trading on [Polymarket](https://polymarket.com) — sports, Bitcoin short-term markets, and weather. Built for speed, edge detection, and consistent execution.
+**AI agentic prediction** for Polymarket — autonomous agents that analyze data, reason about outcomes, and trade when the probability edge is real.
+
+Not rule-based scripts. **Agentic AI** that reads the market, weighs evidence, and predicts the correct outcome before placing a trade.
 
 ---
 
 ## Portfolio PnL — Live Results
 
-**See the bot in action.** Real portfolio performance.
+**Proof, not promises.** Real portfolio performance from the agent in action.
 
 https://github.com/user-attachments/assets/496376b5-5b36-429d-a210-fd9e11b640ff
 
+> Actual PnL over time — agent-driven entries, exits, and cumulative returns across live strategies.
 
-> Actual PnL over time — entries, exits, and cumulative returns across active strategies.
+---
+
+## AI Agentic Prediction
+
+This bot is powered by **agentic AI** — not fixed rules or simple indicators.
+
+Each agent:
+
+- **Gathers context** — live odds, price feeds, weather models, game stats, market sentiment
+- **Reasons step-by-step** — weighs conflicting signals and estimates true outcome probability
+- **Predicts the correct side** — only trades when the agent's forecast diverges from market price
+- **Acts autonomously** — scans, decides, and executes without manual input
+
+The goal is simple: **predict the winning outcome more accurately than the market**, then capture that edge automatically.
 
 ---
 
@@ -19,31 +35,36 @@ https://github.com/user-attachments/assets/496376b5-5b36-429d-a210-fd9e11b640ff
 
 ### Sports
 
-NFL, NBA, MLB, soccer, UFC, and more. Scans pre-game and in-play markets for mispriced outcomes and executes when the edge is there.
+NFL, NBA, MLB, soccer, UFC, and more. Agents evaluate match context, form, injuries, and line movement to predict the correct outcome.
 
 ### Bitcoin — 5 min · 15 min · 1 hour
 
-Short-horizon BTC up/down markets across three timeframes. Fast signals, fast fills, tuned for tight windows where seconds matter.
+Short-horizon BTC up/down markets. Agents read momentum, volatility, and multi-timeframe signals to forecast direction before each window closes.
 
 ### Weather
 
-Temperature, precipitation, and regional forecast markets. Trades the gap between model probabilities and what the market is pricing.
+Temperature, precipitation, and regional forecast markets. Agents cross-reference forecast models against market prices to find mispriced outcomes.
 
 ---
 
-## Why This Bot
+## Why Agentic AI Wins
 
-- **Multi-market** — one engine covering sports, crypto intervals, and weather
-- **Automated** — scans, sizes, and executes without manual babysitting
-- **Transparent** — portfolio PnL you can see for yourself (video above)
+- **Adaptive** — agents update their reasoning as new data arrives, not stale hard-coded logic
+- **Multi-market** — one agentic stack covering sports, crypto intervals, and weather
+- **Outcome-focused** — every trade starts with a prediction, not a pattern match
+- **Transparent** — portfolio PnL you can verify yourself (video above)
 
 ---
 
-## Get in Touch
+## Contact Me on Telegram
 
-**Telegram:** [@victor0x080](https://t.me/victor0x080)
+Interested in access, custom agents, or collaboration?
 
-Questions, access, or custom setups — reach out on Telegram.
+### [@victor0x080](https://t.me/victor0x080)
+
+**📞Telegram:** `@victor0x080` → [t.me/victor0x080](https://t.me/victor0x080)
+
+Message me directly — fastest way to get started.
 
 ---
 
