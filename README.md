@@ -6,7 +6,9 @@ Automated trading on [Polymarket](https://polymarket.com) — sports, Bitcoin sh
 
 ## Portfolio PnL — Live Results
 
-**See the bot in action.** Real portfolio performance, not backtests.
+**See the bot in action.** Real portfolio performance.
+
+https://github.com/user-attachments/assets/496376b5-5b36-429d-a210-fd9e11b640ff
 
 
 > Actual PnL over time — entries, exits, and cumulative returns across active strategies.
